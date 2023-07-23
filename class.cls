@@ -7,4 +7,6 @@ class class(
     public main;
 
     function(a);
+
+    public uataftermerge;
 )
