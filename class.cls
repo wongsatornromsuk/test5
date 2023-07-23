@@ -4,4 +4,6 @@ class class(
     }
 
     public main;
+
+    function(a,b);
 )
