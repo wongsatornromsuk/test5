@@ -1,5 +1,11 @@
 class class(
     public class(){
-        //test 123
+        //test 1234
     }
+
+    public main;
+
+    function(a,b);
+
+    public uataftermerge;
 )
