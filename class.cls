@@ -7,5 +7,5 @@ class class(
 
     function(a,b);
 
-    public mainaftermerge;
+    public uataftermerge;
 )
