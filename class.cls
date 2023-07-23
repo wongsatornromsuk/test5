@@ -5,4 +5,6 @@ class class(
 
     public uat;
     public main;
+
+    function(a);
 )
