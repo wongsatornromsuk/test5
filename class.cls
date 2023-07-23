@@ -4,4 +4,5 @@ class class(
     }
 
     public uat;
+    public main;
 )
